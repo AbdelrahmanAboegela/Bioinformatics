@@ -1,4 +1,4 @@
-# Intro to Bioinformatics Notes
+# Intro to Bioinformatics Course Notes
 
 Notes for [Mike Saint-Antoine's Intro to Bioinformatics playlist](https://www.youtube.com/playlist?list=PLWVKUEZ25V95IKyBrxHtRTK_6Ig8Xi9-f).
 

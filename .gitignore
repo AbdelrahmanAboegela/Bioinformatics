@@ -9,15 +9,13 @@ __pycache__/
 Thumbs.db
 .vscode/
 
-# Local data and generated analysis outputs
-data/raw/*
-!data/raw/.gitkeep
-data/interim/*
-!data/interim/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-reports/figures/*
-!reports/figures/.gitkeep
+# Analysis data and generated figures (kept inside each project)
+**/data/raw/*
+!**/data/raw/.gitkeep
+**/data/processed/*
+!**/data/processed/.gitkeep
+**/results/figures/*
+!**/results/figures/.gitkeep
 
 # Sensitive local configuration
 .env
