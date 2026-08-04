@@ -1,0 +1,23 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local data and generated analysis outputs
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
+
+# Sensitive local configuration
+.env

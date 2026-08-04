@@ -1,0 +1,12 @@
+name: bioinformatics-study
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
